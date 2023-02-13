@@ -3,8 +3,7 @@ html{
     width: 100%;
     height: 100%;
     font-family: 'Lora', serif;
-    
-        background: rgba(72, 72, 72, 1) no-repeat center center fixed; 
+    background: rgba(72, 72, 72, 1) no-repeat center center fixed; 
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
@@ -24,25 +23,26 @@ html{
     text-decoration: none;
  }
  .text-primary{
-    color:#FF0000;
+   font-size:larger;
+    color:whitesmoke;
  }
  .text-primary2{
-    color:#FFA800;
+    color:whitesmoke;
  }
 .text-primary3{
-color:#EBFF00;
+color:whitesmoke;
 }
 .text-primary4{
-    color:#00FF19;
+    color:whitesmoke;
 }
 .text-primary5{
-color:#00B2FF;
+color:whitesmoke;
 }
 .text-primary6{
-color:#0047FF;
+color:whitesmoke;
 }
 .text-primary7{
-color:#FF00A8;
+color:whitesmoke;
 }
 .col{
    margin-bottom: 20px;
